@@ -1,0 +1,26 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 30px;
+	text-align: center;
+}
+
+h1 {
+	margin: 40px;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 65%;
+}
+
+aside {
+  float: left;
+  width: 35%;
+  padding: 20px;
+}
+
+.check {
+	color: grey; 
+	text-decoration-line: line-through;
+}
